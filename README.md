@@ -6,11 +6,13 @@ This repository provides a structured progression for mastering Data Structures 
 
 Select a category below to engage with the concepts systematically.
 
-* [🔍 Binary Search](./Binary%20Search.md)
-* [🟦 Arrays](./Arrays.md)
-* [🟩 Strings](./Strings.md)
-* [🟨 Hash Table](./Hash%20Table.md)
-* [🟥 Two Pointers](./Two%20Pointers.md)
+* [Binary Search](./Binary%20Search.md)
+* [Arrays](./Arrays.md)
+* [Strings](./Strings.md)
+* [Hash Table](./Hash%20Table.md)
+* [Two Pointers](./Two%20Pointers.md)
+* [Recursion](./Recursion.md)
+* [Recursive Series](./Recursive%20Series.md)
 
 ---
 *Maintained by [mohith789p](https://github.com/mohith789p).*
